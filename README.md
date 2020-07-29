@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌎 I live in Jundiaí-SP
 - 🔭 I’m currently working on Grupo iv2
 - 🌱 I’m currently learning Java
 
