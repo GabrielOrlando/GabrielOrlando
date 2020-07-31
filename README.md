@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌎 I live in Jundiaí-SP
 - 🔭 I’m currently working on Grupo iv2
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java whith Android Studio
 
 - 📫 How to reach me: gabriel.orlando00@gmail.com
 <!--
