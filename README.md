@@ -2,7 +2,7 @@
 - 🌎 I live in Jundiaí-SP
 - 🔭 I’m currently working on Grupo iv2
 - 💬 Ask me about Web Development
-- 📫 How to reach me: gabriel.orlando00@icloud.com
+- 📫 How to reach me: gabriel.orlando00@icloud.com / gabriel.orlando00@gmail.com
 <!--
 **GabrielOrlando/GabrielOrlando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
