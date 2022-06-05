@@ -1,8 +1,9 @@
 ### Hello World 🌎 👋
-- 🌎 I live in Jundiaí-SP
-- 🔭 I’m currently working on Grupo iv2
+- 🌎 I live in Jundiaí-SP / Brasil
+- 🔭 I’m currently not working. #OpenToWork
 - 💬 Ask me about Web Development
-- 📫 How to reach me: gabriel.orlando00@icloud.com / gabriel.orlando00@gmail.com
+- 📫 How to reach me: gabriel.orlando00@icloud.com
+- LinkedIn: https://www.linkedin.com/in/gabrielc-orlando/
 <!--
 **GabrielOrlando/GabrielOrlando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
