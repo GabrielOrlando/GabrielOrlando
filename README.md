@@ -1,6 +1,6 @@
 ### Hello World 🌎 👋
 - 🌎 I live in Jundiaí-SP / Brasil
-- 🔭 I’m currently not working. #OpenToWork
+- 🔭 I’m currently working at Sankhya.
 - 💬 Ask me about Web Development
 - 📫 How to reach me: gabriel.orlando00@icloud.com
 - 🌎 LinkedIn: https://www.linkedin.com/in/gabrielc-orlando/
