@@ -4,7 +4,7 @@
 - 💬 Ask me about Web Development
 - 📫 How to reach me: gabriel.orlando00@icloud.com
 - 🌎 LinkedIn: https://www.linkedin.com/in/gabrielc-orlando/
-- 👨‍💻 I'm currently studying NodeJS
+- 👨‍💻 I'm currently studying Swift 
 <!--
 **GabrielOrlando/GabrielOrlando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
